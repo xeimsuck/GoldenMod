@@ -3,7 +3,7 @@
   {
     "Header": "TikTok Plugin",
     "package_name": "com.tiktok.plugin",
-    "version_code": 100,
+    "version_code": 1,
     "force_update": false,
     "title": "ТИКТОК ПЛАГИН",
     "description_type": 2,
