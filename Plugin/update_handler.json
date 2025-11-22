@@ -4,7 +4,7 @@
     "Header": "TikTok Plugin",
     "package_name": "com.tiktok.plugin",
     "version_code": 78,
-    "force_update": true,
+    "force_update": false,
     "title": "ОБНОВЛЕНИЕ ВЕРСИИ",
     "description_type": 2,
     "html_formatted": false,
