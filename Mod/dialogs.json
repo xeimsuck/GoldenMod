@@ -11,7 +11,8 @@
         "title": "Позже",
         "active_after": 0,
         "type": "CLOSE",
-        "data": {}
+        "data": {},
+        "color": "#A0A0A0"
       },
       {
         "title": "Обновить",
@@ -19,7 +20,8 @@
         "type": "URL",
         "data": {
           "url": "https://t.me/TikTokGoldenMod"
-        }
+        },
+        "color": "#3782F8"
       }
     ]
   },
@@ -35,7 +37,8 @@
         "title": "Нет, спасибо",
         "active_after": 2,
         "type": "CLOSE",
-        "data": {}
+        "data": {},
+        "color": "#A0A0A0"
       },
       {
         "title": "Наш телеграм",
@@ -43,7 +46,8 @@
         "type": "URL",
         "data": {
           "url": "https://t.me/TikTokGoldenMod"
-        }
+        },
+        "color": "#3782F8"
       }
     ]
   }
